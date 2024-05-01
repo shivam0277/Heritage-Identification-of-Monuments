@@ -4,4 +4,3 @@ Pillow
 pandas
 geopy
 tensorflow==2.6.0
-label img
